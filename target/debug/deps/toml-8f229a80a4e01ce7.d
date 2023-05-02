@@ -1,0 +1,13 @@
+/home/theassembler1/src/rustlings/target/debug/deps/toml-8f229a80a4e01ce7.rmeta: /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/home/theassembler1/src/rustlings/target/debug/deps/toml-8f229a80a4e01ce7.d: /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs:
+/home/theassembler1/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs:
